@@ -1,4 +1,4 @@
-.container{
+.contenedor{
   max-width: 900px;
   margin:auto;
 }
@@ -58,10 +58,10 @@
 }
 
 @media (max-width:600px) {
-  .container{
+  .contenedor{
     padding: 30px;
   }
-  .container h2{
+  .contenedor h2{
     text-align: center;
   }
   .no-mobile{
